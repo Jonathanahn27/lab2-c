@@ -39,6 +39,5 @@ int main(void) {
     printf("Your letter grade for CMSC 1131 is F.\n");
   }
 
-
 return 0;
 }
